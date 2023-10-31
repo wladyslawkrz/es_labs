@@ -1,0 +1,9 @@
+{
+  "name": "genetic_algorithm",
+  "version": "1.0.0",
+  "description": "Implemetation of a genetic algorithm",
+  "main": "index.js",
+  "repository": "git@github.com:wladyslawkrz/genetic_algorithm.git",
+  "author": "wladyslawkrz <v.kvetkovsky@yandex.by>",
+  "license": "MIT"
+}
