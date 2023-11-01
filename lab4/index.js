@@ -26,9 +26,7 @@ let prompts = 2;
 while (prompts >= 0) {
   const input = parseFloat(prompt("Введите количество пинт пива: "));
 
-  console.log(
-    `${neuron.processInputData(input)} пинт пива равно ${input} литров`
-  );
+  console.log(`${input} пинт равно ${neuron.processInputData(input)} литров`);
 
   prompts--;
 }
