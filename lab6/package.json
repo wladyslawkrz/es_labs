@@ -1,0 +1,11 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.13.0",
+    "axios": "^1.6.2",
+    "mathjs": "^12.1.0"
+  }
+}
