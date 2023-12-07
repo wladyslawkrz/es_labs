@@ -1,0 +1,10 @@
+{
+  "name": "HopfieldNN",
+  "version": "1.0.0",
+  "description": "Hopfield Neural Network on JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "license": "MIT"
+}
